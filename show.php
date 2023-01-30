@@ -46,6 +46,7 @@
     echo "อายุ:".$age." ปี"."<br>";
     echo "เพศ:".$your_gender."<br>";
     echo  $married ."<br>";
+    
     ?>
 </body>
 
